@@ -36,3 +36,10 @@
 ### Outcome
 
 The *Diabetes Prediction using Logistic Regression* project aims to empower individuals with a proactive approach to managing their health by leveraging machine learning techniques. By offering a reliable prediction tool, this project seeks to facilitate early intervention and promote better health outcomes in the context of diabetes prevention.
+
+### Setting Up project locally
+
+- Create a folder "Diabetes-Prediction".
+- Open it with vs code and run following command in the terminal.
+- pip install requirement.txt
+- After installing requirements run python application.py 
