@@ -43,3 +43,8 @@ The *Diabetes Prediction using Logistic Regression* project aims to empower indi
 - Open it with vs code and run following command in the terminal.
 - pip install requirement.txt
 - After installing requirements run python application.py 
+
+### Update 1.0
+- Tried different models for the prediction 
+- Conclusion: The Logistic Regression gave the highest accuracy of around 76% among all.
+- Further scope: To use Ensemble Learning Techniques to further increase the accuracy of the model.
